@@ -1,10 +1,10 @@
 ---
-title: 블로그 테스트
+title: Getting Started
 author: EZ-000
 date: 2019-08-09 20:55:00 +0800
 categories: [Blogging, Tutorial]
-tags: 
+tags: [getting started]
 pin: true
 ---
 
-올라갈까요?
+## Prerequisites
