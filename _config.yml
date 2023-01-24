@@ -19,12 +19,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: EZ-000                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 명랑한 데일리 개발 로그    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  우리가 하는 것, 우리가 하기를 미루는 것, 우리가 언젠가 하기로 계획하는 것, 이 모든 것들이 우리를 정의한다. 우리가 왜 그 일을 하고 있거나 하지 않고 있는지 스스로도 온전히 이해하지는 못하더라도 말이다. - 앤드루 산텔라, 『미루기의 천재들』
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://ez-000.github.io'
@@ -32,8 +32,8 @@ url: 'https://ez-000.github.io'
 github:
   username: EZ-000             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+# twitter:
+#   username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -42,8 +42,8 @@ social:
   email: nongdam20@naver.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    # - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/EZ-000       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
