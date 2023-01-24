@@ -30,7 +30,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://ez-000.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: EZ-000             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -38,8 +38,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com             # change to your email address
+  name: EZ-000
+  email: nongdam20@naver.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
@@ -78,10 +78,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://chirpy-img.netlify.app'
+img_cdn: '/assets/img/memoticon.png'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/commons/avatar.jpg'
+avatar: '/assets/img/memoticon.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
